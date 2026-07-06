@@ -4,15 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1e3a5f,50:0ea5e9,75:38bdf8,100:818cf8&height=250&section=header&text=Pranav%20Chopade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9A%A1%20AI%20%7C%20Robotics%20%7C%20Full-Stack%20Developer%20%E2%9A%A1&descSize=20&descAlignY=55&descColor=38bdf8" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 👋 ANIMATED HELLO GIF + TYPING SVG                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/pranav-4797">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey+there!+I'm+Pranav+Chopade;%F0%9F%94%A7+Turning+complex+logic+into+real-world+solutions;%F0%9F%A4%96+Building+AI+%26+Robotics+systems+that+matter;%F0%9F%9A%80+Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🔗 SOCIAL BADGES ROW                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <p align="center">
@@ -261,81 +252,6 @@ fun_fact: "I optimized a Bus/Rickshaw Stand using Design Thinking 🚌"
 </td>
 </tr>
 </table>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="./stats/trophies.svg" alt="GitHub Trophies" />
-</p>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS — Side-by-side cards                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<p align="center">
-  <img width="49%" src="./stats/github-stats.svg" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="./stats/streak-stats.svg" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="42%" src="./stats/top-langs.svg" alt="Top Languages" />
-</p>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 CONTRIBUTION ACTIVITY GRAPH                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;Contribution Graph
-
-<p align="center">
-  <img src="./stats/activity-graph.svg" alt="Contribution Graph" />
-</p>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 3D CONTRIBUTION CALENDAR                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
-</p>
-
-> ⚙️ *3D calendar is auto-generated via GitHub Actions. Run the workflow manually the first time from the Actions tab.*
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-4797/pranav-4797/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-4797/pranav-4797/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pranav-4797/pranav-4797/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 <!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
