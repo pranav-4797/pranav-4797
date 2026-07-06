@@ -272,7 +272,7 @@ fun_fact: "I optimized a Bus/Rickshaw Stand using Design Thinking 🚌"
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav-4797&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="./stats/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 <!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
@@ -285,13 +285,13 @@ fun_fact: "I optimized a Bus/Rickshaw Stand using Design Thinking 🚌"
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav-4797&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=0ea5e9" />
+  <img width="49%" src="./stats/github-stats.svg" alt="GitHub Stats" />
   &nbsp;
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pranav-4797&theme=algolia&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=c9d1d9" />
+  <img width="49%" src="./stats/streak-stats.svg" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-4797&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&layout=compact&langs_count=10" />
+  <img width="42%" src="./stats/top-langs.svg" alt="Top Languages" />
 </p>
 
 <!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
@@ -304,7 +304,7 @@ fun_fact: "I optimized a Bus/Rickshaw Stand using Design Thinking 🚌"
 ## 📈 &nbsp;Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-4797&bg_color=0d1117&color=0ea5e9&line=38bdf8&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Pranav's%20Contribution%20Graph" />
+  <img src="./stats/activity-graph.svg" alt="Contribution Graph" />
 </p>
 
 <!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
